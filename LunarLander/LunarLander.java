@@ -1,5 +1,5 @@
 /**
- * This is the fifth test for CI in Jenkins
+ * This is the sixth test for CI in Jenkins
  */
 public class LunarLander {
 	
